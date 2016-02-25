@@ -1,0 +1,18 @@
+//
+//  TYPCH.pch
+//  TYKit
+//
+//  Created by yanyibin on 16/2/25.
+//  Copyright © 2016年 yanyibin. All rights reserved.
+//
+
+#ifndef TYPCH_pch
+#define TYPCH_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "TYKit.h"
+#import "UIImageView+WebCache.h"
+
+#endif /* TYPCH_pch */
